@@ -30,6 +30,11 @@ width:100%;
     padding: 60px;
     justify-content: flex-start;
 }
+.counter_div div
+	{
+	margin-right:10px;
+	}
+
 .image_container
 {
     width: 50%;
