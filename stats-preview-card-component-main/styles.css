@@ -58,6 +58,10 @@ img{
 	justify-content:space-between;
 	
 }
+.counter_div div
+	{
+	margin-right:10px;
+	}
 .counter_div strong{
 font-weight:600;
 font-size:larger;
